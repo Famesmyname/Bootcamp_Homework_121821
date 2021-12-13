@@ -1,6 +1,7 @@
 For this homework, the website's code was organized and checked to insure everything is working as intended.
 
 The user story and criteria are as follows
+
 ## User Story
 
 ```
@@ -26,9 +27,10 @@ THEN I find a concise, descriptive title
 ```
 
 ## Changes
-
+```
 Version 1.00
-    1. Changed the website title from "title" to "Horiseon" so that the user can identify the website from the browser.
-    2. Added Notes naming each area of the website on index.html
-    3. Consolidated Classes into a single class for "Contents" and "Benefits" sections and mades notes for each of these sections
-    4. Based on the cosolidation done in the style.css file, changed the relevant classes for in the html file.
+   1. Changed the website title from "title" to "Horiseon" so that the user can identify the website from the browser. 
+   2. Added Notes naming each area of the website on index.html
+   3. Consolidated Classes into a single class for "Contents" and "Benefits" sections and mades notes for each of these sections. 
+   4. Based on the cosolidation done in the style.css file, changed the relevant classes for in the html file. 
+```
