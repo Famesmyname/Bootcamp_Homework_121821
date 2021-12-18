@@ -34,3 +34,7 @@ Version 1.00
    3. Consolidated Classes into a single class for "Contents" and "Benefits" sections and mades notes for each of these sections. 
    4. Based on the cosolidation done in the style.css file, changed the relevant classes for in the html file. 
 ```
+
+Version 1.01
+   1. Removed "#" from id of Search engine optimization
+   2. Cleaned up /p lines in html
